@@ -163,10 +163,11 @@ padding-top:-7px;}
 	background:rgba(255,255,255,0.95);
 	padding-top:55px;
 	margin-left:5%;
-}
+	}
 
 #text_to_banner>p{
 	padding-left:175px;
+	padding-right:25px;
 }
 
 #text_to_banner>#label{
